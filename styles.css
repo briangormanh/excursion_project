@@ -23,3 +23,10 @@ h2 {
     color: gray;
     font-size: 1.3125rem;
 }
+
+footer p {
+    text-align: right;
+    color: gray;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
